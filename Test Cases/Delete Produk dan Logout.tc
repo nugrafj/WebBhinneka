@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Delete Produk dari keranjang dan Logout</description>
+   <name>Delete Produk dan Logout</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0f6eb714-6127-46e1-89e1-d7d3c563ac2e</testCaseGuid>
+</TestCaseEntity>

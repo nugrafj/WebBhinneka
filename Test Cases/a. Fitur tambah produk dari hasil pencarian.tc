@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Produk dari hasil pencarian dengan manipulasi jumlah produk pada halaman produk detail dan halaman keranjang</description>
+   <name>a. Fitur tambah produk dari hasil pencarian</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>19c9a11a-1ba3-459e-b225-05e0d4dbb34c</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Produk dari daftar kategori dengan manipulasi filter pada daftar produk</description>
+   <name>b. Fitur tambah produk dari daftar kategori</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>a8b05e96-fdce-48f1-a8d1-0e6414de5118</testCaseGuid>
+</TestCaseEntity>
