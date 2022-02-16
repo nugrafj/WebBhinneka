@@ -1,2 +1,2 @@
 # WebBhinneka
-Katalon Studio Project: Test automation Web Bhinneka  
+Katalon Studio Project: Sample Test automation Web Bhinneka  
